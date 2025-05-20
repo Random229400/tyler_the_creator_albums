@@ -9,14 +9,14 @@ body {
 
 #title {
     color: rgb(190, 190, 190);
-    margin: 10px;
-    font-size: 35px;
+    margin: 12px;
+    font-size: 50px;
 }
 
 .albums {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 1em;
+    gap: 2em;
 }
 
 .albums > div {

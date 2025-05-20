@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+#title {
+    color: rgb(190, 190, 190);
+    margin: 10px;
+    font-size: 25px;
+}
+
+.albums {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.albums > div {
+    padding: 10px;
+    margin: 1em;
+    background-color: rgb(96, 108, 108);
+}

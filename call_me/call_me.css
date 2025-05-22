@@ -21,8 +21,8 @@ body {
 #songs {
     display: grid;
     grid-template-columns: 1fr .5fr;
-    background-color: rgb(105, 142, 71);
-    border: 25px solid rgb(255, 255, 255);
+    background-color: rgb(113, 151, 78);
+    border: 25px solid rgb(0, 180, 240);
     padding: 20px;
     border-radius: 30px;
     text-align: center;
@@ -48,7 +48,7 @@ body {
     padding: 12px 32px;
     border: none;
     border-radius: 25px;
-    background: linear-gradient(90deg,  rgb(118, 147, 90) 0%, rgb(0, 165, 174) 100%);
+    background: linear-gradient(90deg,  rgb(113, 151, 78) 0%, rgb(0, 180, 240) 100%);
     color: #fff;
     font-size: 1.2em;
     font-weight: bold;
@@ -58,7 +58,7 @@ body {
 }
 
 .buttons button:hover {
-    background: linear-gradient(90deg, rgb(0, 165, 174) 0%, rgb(118, 147, 90) 100%);
+    background: linear-gradient(90deg, rgb(0, 180, 240) 0%, rgb(113, 151, 78) 100%);
     transform: translateY(-2px) scale(1.04);
     box-shadow: 1 8px 24px rgba(0,0,0,0.18);
 }

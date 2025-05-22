@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(200, 138, 219);
+    background-color: rgb(224, 172, 42);
 }
 
 #cover {
@@ -21,8 +21,8 @@ body {
 #songs {
     display: grid;
     grid-template-columns: 1fr .5fr;
-    background-color: rgb(222, 164, 203);
-    border: 25px solid rgb(82, 93, 96);
+    background-color: rgb(229, 218, 14);
+    border: 25px solid #efb946;
     padding: 20px;
     border-radius: 30px;
     text-align: center;
